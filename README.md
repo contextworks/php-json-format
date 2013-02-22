@@ -2,6 +2,7 @@ php-json-format
 ===============
 
 Replacement for PHP's json_encode() that produces nicely formatted JSON output.
+<br>Format inspired by www.jsoneditoronline.org
 
 ### Usage ###
     $j = new JSONFormat('  ', "\n"); // indent and linebreak characters
